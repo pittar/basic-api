@@ -1,0 +1,4 @@
+# Requirements
+fastapi >= 0.78, <= 0.79
+uvicorn[standard] >= 0.17, <= 0.18
+
